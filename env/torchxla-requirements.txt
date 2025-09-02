@@ -1,0 +1,4 @@
+--index-url https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.8.0.dev20250619-cp311-cp311-linux_x86_64.whl
+--extra-index-url https://pypi.org/simple
+
+torch_xla==2.7.0
